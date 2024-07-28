@@ -60,3 +60,10 @@ A pandas series is like a column in a table. It is one-dimensional array holding
 If nothing else is specified, the values are labeled with their index number. First value has index 0, second value has index 1 etc.
 
 This label can be used to access a specified value.
+
+## What are Dataframes ?
+
+A Pandas DataFrame is a 2 dimensional data structure, like a 2 dimensional array, or a table with rows and columns.
+
+#### locate row
+Pandas use the `loc` attribute to return one or more specified row(s)
